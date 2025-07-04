@@ -14,7 +14,7 @@ A full-stack solution combining Spring Boot, Google Gemini AI, and React to crea
 
 Backend
 - Java 17
-- Spring Boot 3.x
+- Spring Boot 3.4.1
 - WebClient
 - Gemini API
 
