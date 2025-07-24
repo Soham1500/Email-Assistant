@@ -10,14 +10,17 @@ An AI-powered application that generates intelligent, context-aware email replie
 
 ## 🔥 Project Screenshots
 
-### ✅ Login Page (Live Clerk Auth)  
-![Login Page](https://raw.githubusercontent.com/Soham1500/Email-Assistant/main/Email-Frontend/src/assets/login-page.png)
+### ✅ Login Page (Clerk Auth)
 
-### ✅ Backend API Running on Render  
-![Backend Render](https://raw.githubusercontent.com/Soham1500/Email-Assistant/main/Email-Frontend/src/assets/backend-render.png)
+<img width="1892" height="912" alt="Login Page" src="https://github.com/user-attachments/assets/c9be0e4f-a3f8-4aae-9f02-0eca39548474" />
 
-### ✅ Clerk Sign-Up Page  
-![Sign Up Page](https://raw.githubusercontent.com/Soham1500/Email-Assistant/main/Email-Frontend/src/assets/signUp/signup-page.png)
+### ✅ Clerk Sign-Up Page
+
+<img width="1724" height="659" alt="Clerk Page" src="https://github.com/user-attachments/assets/d77e384e-56f4-429d-a758-88f2d7c98f17" />
+
+### ✅ Backend API on Render
+
+<img width="1901" height="994" alt="Backend Render" src="https://github.com/user-attachments/assets/fd9bf0d3-857d-49b5-b5b6-21c0c733a59c" />
 
 ---
 
