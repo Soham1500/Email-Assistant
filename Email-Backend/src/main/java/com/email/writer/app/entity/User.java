@@ -8,7 +8,7 @@ import lombok.*;
 @Entity
 @Table(name = "users")
 @Data
-@Builder
+@Builder  // ✅ Needed for builder() method
 @NoArgsConstructor
 @AllArgsConstructor
 public class User {

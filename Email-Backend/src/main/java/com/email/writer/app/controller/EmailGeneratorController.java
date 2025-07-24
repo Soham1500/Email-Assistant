@@ -8,6 +8,7 @@
 
         @RestController
         @AllArgsConstructor
+        @CrossOrigin(origins = "https://email-assistant-omega.vercel.app")
         public class EmailGeneratorController {
 
             private final EmailGeneratorService emailGeneratorService;
